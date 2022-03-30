@@ -16,6 +16,6 @@ This flutter UI is Build with -
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
  
  Another implementaion of the same theme:
- <img align="left" width="309" height="550" src="https://github.com/ralphcoder/brandie/blob/main/images/ezgif.com-gif-maker.gif">
+ <img align="left" width="309" height="550" src="https://github.com/ralphcoder/brandie/blob/main/images/ezgif.com-gif-maker%20(2).gif">
  
  
