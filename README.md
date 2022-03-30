@@ -12,7 +12,7 @@ This flutter UI is Build with -
 - I have also used some photoshop to make the products's picture bit funky.😁
 
 <img align="left" width="309" height="550" src="https://github.com/ralphcoder/Liglo/blob/master/ezgif.com-optimize.gif">
-<br>
+&nbsp;  &nbsp; &nbsp; &nbsp;
  
  Another implementaion of the same theme:
  <img align="left" width="309" height="550" src="https://github.com/ralphcoder/brandie/blob/main/images/ezgif.com-gif-maker.gif">
