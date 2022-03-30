@@ -1,4 +1,4 @@
-# liglo
+# Brandie
 
 An attractive UI for Store app. 🛒
 
