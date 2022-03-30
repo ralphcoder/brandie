@@ -1,16 +1,14 @@
 # liglo
 
-A new Flutter application.
+An attractive UI for Store app. 🛒
+
+![](https://github.com/ralphcoder/Parallel-Inertia/blob/master/readme%20assets/Mock_02_marble_PSD_compressed.jpg)
 
 ## Getting Started
+This flutter UI is Build with -
+- Cool hero animations. 📽
+- Great glow effects over buttons. 💡
+- Box shadows. 🌞
+- I have also used some photoshop to make the products's picture bit funky.😁
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img align="left" width="309" height="550" src="https://github.com/ralphcoder/Liglo/blob/master/ezgif.com-optimize.gif">
